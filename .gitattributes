@@ -1,0 +1,17 @@
+# Deterministic checkout so SHA256SUMS.txt verifies on every platform.
+# Without this, core.autocrlf=true (the Git for Windows default) rewrites
+# text files to CRLF on checkout and every recorded hash mismatches.
+* text=auto eol=lf
+
+# Markdown/JSON/scripts are all text; keep them LF on checkout.
+*.md    text eol=lf
+*.json  text eol=lf
+*.py    text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.txt   text eol=lf
+*.csv   text eol=lf
+
+# These are verified byte-for-byte and must never be rewritten.
+SHA256SUMS.txt  -text
+LICENSE         -text
