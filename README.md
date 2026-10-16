@@ -21,13 +21,15 @@
 
 ### 安装
 
-克隆仓库或解压到你的 Agent Skills 根目录，并保证技能文件夹名为 `flux3-klein-prompting`。例如：
+克隆仓库或解压到你的 Agent Skills 根目录。**技能文件夹名必须是 `flux3-klein-prompting`**（要与 `SKILL.md` 的 `name` 一致，`validate_skill.py` 会校验这一点）：
 
 ```bash
 mkdir -p ~/.agents/skills
-cp -a flux3-klein-prompting ~/.agents/skills/
+git clone https://github.com/AI-KSK/flux3-klein-prompting.git ~/.agents/skills/flux3-klein-prompting
 python3 ~/.agents/skills/flux3-klein-prompting/scripts/validate_skill.py
 ```
+
+如果你 `git clone` 到了别的目录名，或解压后重命名了文件夹，请改回 `flux3-klein-prompting` 再运行校验；否则 `validate_skill.py` 会明确报错要求改名。
 
 Agent 是否自动发现/启用技能，取决于具体客户端；如果没有自动发现，请显式读取 `SKILL.md`。
 

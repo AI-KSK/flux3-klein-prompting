@@ -17,7 +17,12 @@ for x in ROOT.rglob('*.json'):json.loads(x.read_text(encoding='utf-8'))
 txt=(ROOT/'SKILL.md').read_text(encoding='utf-8');assert txt.startswith('---\n')
 head=txt.split('---',2)[1]
 name=re.search(r'^name:\s*(\S+)',head,re.M).group(1)
-assert name==ROOT.name and re.fullmatch('[a-z0-9]+(?:-[a-z0-9]+)*',name) and len(name)<=64
+assert re.fullmatch('[a-z0-9]+(?:-[a-z0-9]+)*',name) and len(name)<=64, (
+    f'SKILL.md frontmatter name must be lower-kebab-case and <=64 chars, got {name!r}')
+assert name==ROOT.name, (
+    f'Skill folder is named {ROOT.name!r} but SKILL.md declares name: {name!r}. '
+    f'The Agent Skills specification requires the folder name to match the skill name. '
+    f'Rename this folder to {name!r} (for example: git clone <repo-url> {name}) and re-run.')
 m=re.search(r'^description:\s*(.*)',head,re.M)
 assert m and 1<=len(m.group(1))<=1024
 for rel in re.findall(r'\]\((references/[^)]+|assets/[^)]+|scripts/[^)]+)\)',txt):
