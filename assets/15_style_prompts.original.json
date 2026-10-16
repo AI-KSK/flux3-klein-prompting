@@ -1,0 +1,272 @@
+[
+  {
+    "id": "S01",
+    "title": "云端飞行少女",
+    "source_screenshot": "截图1",
+    "reference_crop_box": [
+      125,
+      0,
+      344,
+      333
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9901,
+    "upsampler": "OFF",
+    "criteria": "空中动作/云层深度/蓝白色彩",
+    "prompt": "An airy fantasy anime illustration of one young adult woman riding side-saddle on a narrow wooden broom high above towering summer clouds. She wears a layered white and pale blue ruffled dress, white ankle socks, and dark Mary Jane shoes, with her legs bent forward and her light hair streaming in the wind. Show the figure entering from the upper part of a tall composition, leaving the lower two-thirds dominated by enormous sunlit cumulus cloud banks. Rich cobalt blue sky, delicate lavender blue shadow planes inside the clouds, broad painterly edges and bright white rim light. The broom forms a strong diagonal across the upper center. A gentle sense of height and floating motion, hand-painted Japanese fantasy illustration with soft gouache texture and controlled brushwork. Exactly one flying rider and one broom, no lettering, no frame, no collage."
+  },
+  {
+    "id": "S02",
+    "title": "橙色罂粟花与绿玻璃瓶",
+    "source_screenshot": "截图1",
+    "reference_crop_box": [
+      355,
+      0,
+      590,
+      380
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9902,
+    "upsampler": "OFF",
+    "criteria": "复古海报/花茎结构/负空间",
+    "prompt": "A graphic still-life illustration of two bright vermilion-orange poppy flowers growing from a slender green glass mineral-water bottle placed on a cream tabletop. One poppy rises above the other; each flower has a dark ink-black center, slightly uneven rounded petals, and a long olive-green stem with sparse jagged leaves. Behind them is a single flat golden-ochre wall. The entire arrangement casts a dramatic sharp-edged black shadow toward the left, creating an intentionally simplified poster composition. Use matte screen-printed color fields, subtle vintage paper grain, clean botanical contours, and a restrained palette of orange, dark forest green, warm yellow, and black. The glass bottle is translucent with a small neutral paper label but no legible brand name. Tall centered 3:4 framing, ample empty space around the flowers, exactly two poppies, no extra objects or typography."
+  },
+  {
+    "id": "S03",
+    "title": "幻彩水彩短发少女",
+    "source_screenshot": "截图1",
+    "reference_crop_box": [
+      594,
+      80,
+      824,
+      407
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9903,
+    "upsampler": "OFF",
+    "criteria": "眼神/透明水彩/色彩过渡",
+    "prompt": "A delicate close-up painted portrait of one young adult woman facing the viewer with a gentle, slightly wistful expression. She has a softly rounded face, luminous rose-pink eyes, fine brows, a small natural smile, and wispy shoulder-length hair that shifts between smoky blue, lilac, silver, peach, and muted turquoise. Loose flyaway strands cross her cheeks. A pale off-white shirt with a simple collar is only lightly suggested at the shoulders. Render the skin with translucent watercolor washes and subtle rosy cheeks, overlaying a few precise pencil-like facial lines. Build the hair from broad semi-transparent painterly color planes rather than photographic strands; let the outline fade into an almost-white background. Close symmetrical bust framing, diffused cool daylight, gentle chromatic reflections, visible brush edges and untouched paper breathing room. No ornamental text, flowers, jewelry clutter, or hyperrealistic pores."
+  },
+  {
+    "id": "S04",
+    "title": "青绿热带叶丛中的少年",
+    "source_screenshot": "截图1",
+    "reference_crop_box": [
+      1104,
+      18,
+      1292,
+      475
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9904,
+    "upsampler": "OFF",
+    "criteria": "植物遮挡/人物比例/冷暖平衡",
+    "prompt": "A calm contemporary editorial illustration of one young adult man sitting quietly among enormous tropical monstera leaves and overlapping broad-leaf plants. He has short dark hair and wears a simple ivory short-sleeve shirt with teal trousers. Position him small in the lower right quadrant, seated with his knees drawn up and his forearms resting loosely on them, looking to the left. The foliage fills nearly the entire tall frame, with giant teal, emerald, and sea-green leaves arching across the upper half and bold cutout holes in the monstera shapes. Use layered opaque gouache-like brushwork, simplified plant anatomy, muted cream highlights and flat blue-green shadow shapes. Soft diffuse daylight filters from above; the atmosphere is serene and humid without photorealism. Preserve strong scale contrast between the tiny human figure and the oversized botanical environment. No printed words, repeated figures, insects, or dense decorative particles."
+  },
+  {
+    "id": "S05",
+    "title": "红日与灰猫的日式版画",
+    "source_screenshot": "截图1",
+    "reference_crop_box": [
+      120,
+      365,
+      352,
+      745
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9905,
+    "upsampler": "OFF",
+    "criteria": "动物解剖/版画笔触/日式留白",
+    "prompt": "A traditional Japanese woodblock-print inspired illustration of one chubby gray striped domestic cat performing a deep stretching bow on weathered wooden veranda planks. Its front paws extend forward, chest nearly touches the floor, eyes are gently closed, and its thick striped tail stands upright behind the rounded body. A single muted red sun disk hangs in the upper left against a spacious warm rice-paper sky. In the distance, faint gray silhouettes of pine branches, low hills and a wooden house corner appear through atmospheric mist. Draw the cat with precise dark ink contours and sparse gray brush shading, contrasting with the flat red sun and soft monochrome background. Off-white handmade washi paper texture, quiet asymmetrical vertical composition, fine woodcut grain. No calligraphic writing, seals, frame, extra cats, or bright modern colors."
+  },
+  {
+    "id": "S06",
+    "title": "捧红苹果的糖果色少女",
+    "source_screenshot": "截图2",
+    "reference_crop_box": [
+      229,
+      285,
+      445,
+      565
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9906,
+    "upsampler": "OFF",
+    "criteria": "超现实人物/手部/苹果材质",
+    "prompt": "A playful surreal close-up digital illustration of one young adult woman with a large stylized face and unusually wide pink eyes, shown from the shoulders upward. Her buttery blond hair curls into a neat low side loop, her skin is peach-pink with tiny luminous freckles, and she wears a saturated yellow collared top. Both hands gently cradle a single glossy vivid red apple directly in front of her mouth; the apple has one short brown stem and a tiny bright green leaf. Two little pastel-blue cloud shapes hover across her cheeks like whimsical makeup. The background is an uninterrupted bright cyan sky-blue plane. Use polished smooth gradient shading with soft porcelain-like forms, crisp toy-like silhouettes and tasteful warm pink highlights. Compose close enough for the hands and apple to be clearly visible, with credible finger counts and contact. Pop-surreal editorial illustration, no text, no watermark, no additional fruit or faces."
+  },
+  {
+    "id": "S07",
+    "title": "牡丹花掩映的国风仕女",
+    "source_screenshot": "截图2",
+    "reference_crop_box": [
+      446,
+      229,
+      664,
+      566
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9907,
+    "upsampler": "OFF",
+    "criteria": "花卉层次/国风服饰/面部保真",
+    "prompt": "An elegant decorative Chinese-inspired portrait illustration of one adult woman in three-quarter profile with her eyes closed and her face tilted slightly downward. Her porcelain-toned skin is softly blushed; delicate black lashes and a tiny vermilion lip create a peaceful expression. Her dark hair is arranged into an elaborate low updo with small gold pendants, red circular ornaments and fine beaded tassels. Large layered blush-pink peony blossoms crowd the left foreground and partially overlap the silhouette of her head without hiding the visible eye, nose or mouth. She wears a jade-green traditional embroidered garment with subtle red trim. Use hand-painted gouache and fine ink linework, restrained warm pink, burgundy, dark teal and cream tones, flat decorative floral shapes, and a lightly aged paper surface. Tall portrait framing, shallow layered depth, clean defined face, no writing or modern accessories."
+  },
+  {
+    "id": "S08",
+    "title": "金发糖果系小恶魔",
+    "source_screenshot": "截图2",
+    "reference_crop_box": [
+      667,
+      220,
+      880,
+      601
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9908,
+    "upsampler": "OFF",
+    "criteria": "Q版表情/鲜艳互补色/手部",
+    "prompt": "A vibrant retro pop-anime illustration of one mischievous young adult fantasy girl in a close three-quarter portrait. She has voluminous golden blond curls tied up with a small red ribbon, two tiny curved red horns, enormous expressive aqua-blue eyes with star-like highlights, round rosy cheeks, and a playful half-open mouth holding a round blue lollipop on a white stick. A single hand lifts the candy to her lips. Behind her, bold flat blocks of saturated yellow, cobalt blue and warm coral red form irregular comic-style shapes. Thick imperfect dark outlines, energetic colored-pencil marks, screen-print misregistration and a few deliberate brush swipes give the image a lively zine-art texture. Make the face large and easily readable while retaining simple anatomy. Vertical poster crop, no text, no logos, no duplicate horns or extra hands."
+  },
+  {
+    "id": "S09",
+    "title": "莲花与火焰的复古混搭人物",
+    "source_screenshot": "截图2",
+    "reference_crop_box": [
+      0,
+      621,
+      224,
+      802
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9909,
+    "upsampler": "OFF",
+    "criteria": "古今元素组合/扁平插画/对称性",
+    "prompt": "A whimsical flat-color illustration of one serene adult East Asian woman dressed in traditional layered robes, sitting upright in a simple modern dark office chair. Her glossy black hair is styled in a neat high bun with a small floral ornament, her eyes are softly closed, and her pale face has rosy cheeks and a tiny red forehead mark. She holds a single blooming pink lotus upright between both hands at the center of her chest. Her robe has broad cream, jade-green and cobalt-blue panels with warm orange trim. Stylized orange and yellow flame silhouettes rise behind her like an ornamental halo, while the corner of a simple black computer monitor appears in the lower right, creating a deliberate contrast between historical costume and contemporary work space. Flat vector-like shapes, sparse printed grain, clear silhouette, centered vertical layout, no lettering and no extra objects."
+  },
+  {
+    "id": "S10",
+    "title": "巨型橙色面孔前的两个人",
+    "source_screenshot": "截图2",
+    "reference_crop_box": [
+      0,
+      129,
+      222,
+      522
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9910,
+    "upsampler": "OFF",
+    "criteria": "巨物尺度/低机位/人物关系",
+    "prompt": "A cinematic surreal concept-art illustration seen from a very low ground-level camera angle. In the center-right foreground stands one adult man in a slightly oversized black suit, viewed from behind and looking upward; in the lower left foreground another adult person in a loose off-white outfit crouches on the ground. Filling almost the entire background is a monumental round orange painted face, many stories tall, with two enormous dark glossy eyes, a small nose and a faint closed mouth. The scale difference between the two tiny human figures and the gigantic face is unmistakable. Strong burnt-orange and vermilion planes dominate the composition, interrupted by a thin warm-white architectural curve across the upper edge. Dramatic oblique sunlight, hard geometric shadows, a retro-futuristic editorial illustration treatment with painterly edges and coherent body proportions. Exactly two human figures; no readable lettering, extra eyes or crowds."
+  },
+  {
+    "id": "S11",
+    "title": "红缨头盔的古典骑士侧像",
+    "source_screenshot": "截图3",
+    "reference_crop_box": [
+      227,
+      0,
+      449,
+      330
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9911,
+    "upsampler": "OFF",
+    "criteria": "盔甲结构/黑红灰三色/剪影",
+    "prompt": "A bold graphic historical-fantasy illustration showing the bust of one armored warrior in strict right-facing profile. The face is hidden by a dark iron helmet with a long pointed visor, layered cheek protection, riveted metal plates, and a towering scarlet horsehair crest sweeping back from the crown. A heavy folded crimson scarf wraps the the warrior neck and shoulders, with angular black armor underneath. The entire silhouette is isolated against a rough warm off-white parchment background with small scattered speckles. Render with thick carved-looking ink outlines, dry-brush shadow blocks, restrained crosshatching, and a narrow palette of charcoal gray, antique silver, deep black and intense red. Put the helmet high in the vertical frame, leave clear space ahead of the gaze, and keep the crest fully visible. No face reveal, extra helmets, words, shields, or background architecture."
+  },
+  {
+    "id": "S12",
+    "title": "墨绿色骑兵与战马特写",
+    "source_screenshot": "截图3",
+    "reference_crop_box": [
+      450,
+      0,
+      673,
+      340
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9912,
+    "upsampler": "OFF",
+    "criteria": "马头解剖/环境综合色彩/叙事",
+    "prompt": "A moody fantasy concept-art painting of a large muscular warhorse moving toward the viewer through a shadowed green forest. The the horse head dominates the center of the frame; its long angular muzzle, intense dark eyes, nostrils, windswept mane and leather bridle are clearly structured. Just above and behind its head, a mounted armored rider is partially visible in a dark olive cloak with a small bronze circular fastening and layered green shoulder plates. The palette stays intentionally restricted to pine green, olive, deep forest shadow and a few muted golden highlights. Rough opaque brush strokes carve the horse and rider out of the background, while slender misty vertical tree shapes suggest a damp ancient woodland. Close low-angle vertical composition emphasizes the horse first, rider second, with strong depth and no unnecessary ornaments, lettering or secondary animals."
+  },
+  {
+    "id": "S13",
+    "title": "黑白水墨破甲骑士",
+    "source_screenshot": "截图3",
+    "reference_crop_box": [
+      680,
+      226,
+      909,
+      691
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9913,
+    "upsampler": "OFF",
+    "criteria": "水墨轮廓/甲片细节/白底对比",
+    "prompt": "An expressive monochrome ink-and-wash fantasy character illustration of one lone medieval knight standing upright, facing slightly to the left. Heavy weathered plate armor covers the body, with layered shoulder pauldrons, a closed angular helmet, damaged chest plates and a ragged black cloak falling behind. Both gauntleted hands rest around the hilt of a long straight sword held vertically in front of the figure, blade pointing down. Use forceful black dry-brush strokes, splintered charcoal marks, pale gray ink washes and open white paper to suggest metal wear and torn fabric without fully rendering every surface. The knight fills most of a tall composition but the background remains nearly blank ivory parchment, with a few loose painterly smears at the feet. Grave, solitary atmosphere, strong readable anatomy and sword geometry, no scenery clutter, no color accents and no text."
+  },
+  {
+    "id": "S14",
+    "title": "朱红底白发持刀少年",
+    "source_screenshot": "截图3",
+    "reference_crop_box": [
+      1340,
+      295,
+      1573,
+      624
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9914,
+    "upsampler": "OFF",
+    "criteria": "红白极简/横向刀具/飘带细节",
+    "prompt": "A striking limited-palette manga-inspired fantasy illustration of one young adult white-haired swordsman standing in left-facing side profile against a completely flat vivid vermilion-red background. Their short windblown white hair falls across the eyes, and they wear an oversized off-white cloak draped over a dark charcoal outfit with several small crimson fabric tags and a tiny circular black-and-white emblem near the waist. A long, weathered dark sword in its ornamented scabbard rests diagonally across the right shoulder, supported by one hand near the neck; the weapon extends toward the far right edge but remains legible. The figure occupies the center-right of the tall frame. At the bottom, sparse black grass-like ink strokes and white brush marks suggest a windswept snowy ground. Rough scratchy pencil contours, purposeful painterly shading, high red-white-black contrast, no lettering, duplicate blades or extra people."
+  },
+  {
+    "id": "S15",
+    "title": "雪原孤独长剑旅人",
+    "source_screenshot": "截图3",
+    "reference_crop_box": [
+      222,
+      348,
+      447,
+      741
+    ],
+    "mode": "T2I",
+    "aspect_ratio": "3:4",
+    "size": "768×1024",
+    "seed": 9915,
+    "upsampler": "OFF",
+    "criteria": "深色厚涂/全身骨架/剑与人物比例",
+    "prompt": "A somber full-body fantasy oil-painting illustration of one lone pale-haired adult warrior standing motionless in a sparse winter field. Wavy light-blond hair partly hides the face, which has a reserved tired expression. The warrior wears a heavy weathered dark olive-gray traveling coat with broad reinforced shoulders, layered leather straps, muted metal clasps, a small cross-shaped pendant and sturdy black boots. Their right hand loosely grips the pommel of a long straight medieval sword planted vertically into the snowy ground in front of them. Patchy snow alternates with dead ochre grass and old wooden stakes, while a dark leafless forest recedes into an overcast dusk background. Use textured painterly brushstrokes and soft naturalistic proportions, mixing cold slate-blue snow shadows with muted earthy browns. The full figure, boots and entire sword should fit comfortably in a tall portrait composition; no other people, text or magical glow."
+  }
+]

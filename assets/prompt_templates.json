@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "language": "English for generated caption, Chinese for instructions",
+    "default": "Use one paragraph of full result scene caption"
+  },
+  "T2I": {
+    "required": [
+      "medium/style",
+      "subject+count",
+      "scene+position",
+      "camera/framing",
+      "lighting",
+      "materials/colors"
+    ],
+    "skeleton": "[Medium and aesthetic]. [Number and appearance of subjects]. [Pose, object positions and interactions]. [Foreground, background and location]. [Framing, camera angle and lens perspective]. [Light and material description]. [Exact typography in quotes if needed]."
+  },
+  "EDIT": {
+    "required": [
+      "<ref_image_0>",
+      "what changes",
+      "what must remain",
+      "full final-frame description"
+    ],
+    "skeleton": "In <ref_image_0>, the [main visible subject] remains [preserved appearance, pose and composition]. The [target] is now [replacement or changed property] while preserving [unchanged properties]. [Lighting, background, perspective and photo/style remain consistent]."
+  },
+  "MULTI_REF": {
+    "required": [
+      "reference index mapping",
+      "subject source",
+      "clothing/prop/background sources",
+      "coherent lighting"
+    ],
+    "skeleton": "A cohesive [image medium] of [subject and action]. The person retains [identity properties] from <ref_image_0>; the clothing/design follows <ref_image_1>; the background follows <ref_image_2> if supplied. [Framing], [lighting] and [all other constraints]."
+  },
+  "LAYOUT_T2I": {
+    "required": [
+      "<obj_1>",
+      "full scene",
+      "desc in CreateBoundingBoxes",
+      "matching source canvas size"
+    ],
+    "skeleton": "A [scene medium] showing [subject/object] <obj_1> at [location], with [lighting and context]. Other elements <obj_2> [spatial relation] when their boxes exist."
+  },
+  "LAYOUT_EDIT": {
+    "required": [
+      "<ref_image_0>",
+      "<obj_1>",
+      "result scene",
+      "preservation"
+    ],
+    "skeleton": "In <ref_image_0>, the original [person/scene] remains [preserved]. At <obj_1>, the [source item] has become [new item description]. [Lighting, geometry and other parts of the scene]."
+  },
+  "BENCHMARK": {
+    "required": [
+      "final caption frozen",
+      "shared seed/resolution/refs",
+      "per-branch recommended steps/cfg",
+      "separate PUP time"
+    ],
+    "skeleton": "One shared finalized caption for all compared branches, not one independent upsampling call per branch."
+  }
+}

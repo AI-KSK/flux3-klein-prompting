@@ -1,0 +1,50 @@
+AI-KSK FLUX 3 Image Klein Prompting Skill
+Copyright 2026 AI-KSK
+
+Apache License 2.0
+------------------
+The original materials authored for AI-KSK in this repository are licensed
+under the Apache License, Version 2.0 (see LICENSE). The grant covers:
+
+  - SKILL.md and README.md;
+  - the reference documents under references/;
+  - the asset data files under assets/ (the 30-case plan, the 15-case style
+    prompts and 4K run configuration, prompt templates, reference-image
+    prompts and the workflow switch audit);
+  - the example prompts under examples/;
+  - the Python standard-library scripts under scripts/ and the tests under
+    tests/;
+  - the CI workflow under .github/workflows/ and the .gitignore.
+
+It does NOT apply to, and grants no rights in:
+
+  - FLUX 3 Image Klein model weights or any other model checkpoint. The BFL
+    weights are distributed under the FLUX Kommunity License and are not
+    bundled, downloaded or redistributed here;
+  - Black Forest Labs reference or inference code. It is Apache-2.0 upstream
+    and is referenced for calibration only; no upstream source is copied in;
+  - the prompt upsampler and its own license terms;
+  - ComfyUI, ComfyUI custom nodes, or any workflow implementation. Node names
+    appear in documentation and audit notes only; no workflow JSON is
+    redistributed by this repository;
+  - any third-party image, screenshot, reference photo or generated output.
+
+Third-party notes
+-----------------
+This is a community-authored prompting skill. It is not an official Black
+Forest Labs or ComfyUI release, and it implies no endorsement or affiliation.
+
+The documentation records empirical observations from AI-KSK test runs
+(including a 15-case 3072x4096 stress configuration with the prompt upsampler
+enabled). Those are AI-KSK's own self-selected experimental settings. They are
+not official BFL presets, and no performance, quality or hardware-capability
+guarantee is made. Generated outputs and GPU logs are not included.
+
+No model weights, API keys, proxy credentials, cookies, signed URLs, private
+sample images, local privacy paths or GPU run logs are included in this
+repository.
+
+Trademarks
+----------
+FLUX, Black Forest Labs, ComfyUI and other names are trademarks of their
+respective owners.

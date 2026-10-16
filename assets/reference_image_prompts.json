@@ -1,0 +1,62 @@
+{
+  "A01": {
+    "title": "方形清晰人像与金耳饰",
+    "ratio": "1:1",
+    "description": "生成：单人成人女性，正面略偏侧、可见单侧耳朵、硕大的金色吊坠耳饰、耳饰和脸缘没有遮挡、素色上衣、干净室内背景。",
+    "prompt": "A realistic close-up three-quarter portrait of an adult woman with natural skin texture, dark hair tucked behind one ear, and one clearly visible large gold dangling metal earring. The ear and ornament are unobstructed; both eyes, nose and mouth are sharp. Simple teal blouse, soft neutral studio background, diffused daylight and believable pores. No flowers, no extra jewelry, no lettering."
+  },
+  "A02": {
+    "title": "全身黑色连衣裙",
+    "ratio": "9:16",
+    "description": "生成：全身成年女性穿黑裙，裙子完整可见，不要外套、花纹或大面积阴影。",
+    "prompt": "Full-length straightforward editorial photograph of an adult woman wearing a solid black midi dress with visible sleeves, neckline, seams and folds. Both feet in neutral shoes are entirely visible. Plain bright studio backdrop, natural human proportions, even daylight, no coat, no printed patterns, no jewelry drawing attention from the dress."
+  },
+  "A03": {
+    "title": "站姿男性与工作室",
+    "ratio": "9:16",
+    "description": "生成：男模全身站立，灰外套、白上衣、深色裤，留旁边椅子空间，方便改坐姿。",
+    "prompt": "Full-body documentary studio photograph of one adult man in a medium-gray casual jacket, plain white shirt, dark trousers and dark shoes. He stands naturally on a clean pale floor, facing three-quarters toward the camera. A simple wooden chair is visible beside him with ample clear space. Lighting is soft and directional, facial features clear, no one else in frame."
+  },
+  "A04": {
+    "title": "桌上深色马克杯",
+    "ratio": "16:9",
+    "description": "生成：深色马克杯放在木桌左侧，桌面右边留白，利于物体替换和框选。",
+    "prompt": "Wide realistic interior photo of a bright minimalist kitchen dining corner. A single dark ceramic coffee mug sits on the left half of a large wooden table. The right half of the table is intentionally empty and clear. Soft daylight enters from the left, consistent tabletop grain, simple blurred background, no flowers, no vase, no books, no people."
+  },
+  "A05": {
+    "title": "OPEN商店招牌",
+    "ratio": "4:3",
+    "description": "生成：干净店铺门面，中央明显英文OPEN字样，方便测试改文字。",
+    "prompt": "Realistic straight-on photograph of a small contemporary neighborhood shop facade. Above the glass entrance is one large rectangular black sign displaying the clearly readable uppercase word OPEN in simple white sans-serif letters. No other text anywhere. Even daylight, straight architectural lines, visible doorway and windows, clean simple composition."
+  },
+  "A06": {
+    "title": "空旷极简客厅",
+    "ratio": "16:9",
+    "description": "生成：空客厅，地板和墙面有明显透视，中间留空供三框摆家具。",
+    "prompt": "Wide clean photograph of a largely empty contemporary living room with pale plaster walls, wood flooring, a large window on the left and soft consistent natural daylight. The room contains no chair, no lamp and no plant, leaving empty areas in the foreground and beside the far wall. Architectural perspective and floor boundary are clear."
+  },
+  "R02": {
+    "title": "服装参考 / 外套与长裤",
+    "ratio": "4:3",
+    "description": "服装平铺或人台，无面部，便于确认身份究竟来自R01。",
+    "prompt": "High-resolution catalog product photograph of a tailored cobalt blue cropped jacket and matching straight trousers displayed on a featureless dress form without a human head or face. Seam lines, fabric texture, collar, front closures and garment silhouette clearly visible. Neutral gray seamless background, even studio lighting and no brand labels."
+  },
+  "R03": {
+    "title": "场景参考 / 城市广场",
+    "ratio": "16:9",
+    "description": "空旷广场、建筑轮廓和地平线明显，可用于2人和多参考融合。",
+    "prompt": "Realistic wide daytime photograph of a quiet modern pedestrian plaza with geometric stone paving, a low planter, several trees and distinctive glass-and-brick buildings. Correct straight architectural perspective, no people, no vehicles and enough open foreground space for fashion models."
+  },
+  "R04": {
+    "title": "道具参考 / 棕色旅行包",
+    "ratio": "4:3",
+    "description": "单独清晰旅行手袋，无logo、无人手、无复杂背景。",
+    "prompt": "Commercial catalog photo of one tan brown leather travel handbag with two sturdy handles, simple brass buckles and a distinctive rectangular silhouette. Three-quarter angle on a neutral pale background, clean realistic texture and shadows, no logos, no people or hands."
+  },
+  "R05": {
+    "title": "双人测试 / 男性身份参考",
+    "ratio": "1:1",
+    "description": "独立成年男性脸部清晰肖像，不能与A01相似。",
+    "prompt": "Realistic head-and-shoulders portrait of an adult man in his thirties with short slightly wavy black hair, clean-shaven face, distinct angular jaw and a neutral dark blue overshirt. Even natural window lighting, plain soft background, direct gaze, anatomically normal face and clear identity details."
+  }
+}

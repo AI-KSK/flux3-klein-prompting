@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+.env
+.env.*
+*.log
+output/
+outputs/
+results/
+.secrets/

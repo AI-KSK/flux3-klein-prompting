@@ -1,0 +1,65 @@
+[
+  {
+    "filename": "05_F05_Distilled_MultiReference_1to10.json",
+    "node_count": 12,
+    "switches": []
+  },
+  {
+    "filename": "06_F06_Distilled_BoundingBox_Layout_Edit.json",
+    "node_count": 13,
+    "switches": []
+  },
+  {
+    "filename": "07_F07_Base_vs_Distilled_A_B.json",
+    "node_count": 14,
+    "switches": []
+  },
+  {
+    "filename": "image_flux3_klein_distilled_image_edit.json",
+    "node_count": 25,
+    "switches": [
+      {
+        "id": 51,
+        "false_input_link": 69,
+        "true_input_link": 71,
+        "source_note": "False/True meaning depends on connected source; see reference."
+      }
+    ]
+  },
+  {
+    "filename": "image_flux3_klein_distilled_t2i.json",
+    "node_count": 14,
+    "switches": [
+      {
+        "id": 16,
+        "false_input_link": 15,
+        "true_input_link": 19,
+        "source_note": "False/True meaning depends on connected source; see reference."
+      }
+    ]
+  },
+  {
+    "filename": "image_flux3_klein_image_edit.json",
+    "node_count": 25,
+    "switches": [
+      {
+        "id": 51,
+        "false_input_link": 69,
+        "true_input_link": 71,
+        "source_note": "False/True meaning depends on connected source; see reference."
+      }
+    ]
+  },
+  {
+    "filename": "image_flux3_klein_t2i.json",
+    "node_count": 14,
+    "switches": [
+      {
+        "id": 16,
+        "false_input_link": 15,
+        "true_input_link": 19,
+        "source_note": "False/True meaning depends on connected source; see reference."
+      }
+    ]
+  }
+]

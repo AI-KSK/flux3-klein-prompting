@@ -1,0 +1,69 @@
+[
+  {
+    "case": "T25",
+    "canvas": "1280×720",
+    "ref": "A04",
+    "objects": [
+      {
+        "id": "obj_1",
+        "description": "clear glass vase with three white tulips",
+        "box": "左侧木桌原马克杯范围，约x=20–43%, y=46–85%"
+      }
+    ],
+    "note": "百分比仅示意；图片实际目标位置以导入画布后人工目测定位为准，不保证自动坐标适配。"
+  },
+  {
+    "case": "T26",
+    "canvas": "1024×1024",
+    "ref": "A01",
+    "objects": [
+      {
+        "id": "obj_1",
+        "description": "small white five-petal flower-shaped earring",
+        "box": "贴耳垂上的金色耳饰周边，尽量不包含眼睛、嘴或头发"
+      }
+    ],
+    "note": "百分比仅示意；图片实际目标位置以导入画布后人工目测定位为准，不保证自动坐标适配。"
+  },
+  {
+    "case": "T27",
+    "canvas": "1280×720",
+    "ref": "A04",
+    "objects": [
+      {
+        "id": "obj_1",
+        "description": "white ceramic vase with two yellow flowers",
+        "box": "左桌面，约x=18–37%, y=45–80%"
+      },
+      {
+        "id": "obj_2",
+        "description": "one closed navy hardcover book",
+        "box": "右桌面，约x=61–81%, y=59–78%"
+      }
+    ],
+    "note": "百分比仅示意；图片实际目标位置以导入画布后人工目测定位为准，不保证自动坐标适配。"
+  },
+  {
+    "case": "T28",
+    "canvas": "1280×720",
+    "ref": "A06",
+    "objects": [
+      {
+        "id": "obj_1",
+        "description": "one modern beige armchair",
+        "box": "左前景，约x=12–37%, y=45–92%"
+      },
+      {
+        "id": "obj_2",
+        "description": "one slender black floor lamp",
+        "box": "右中景，约x=71–82%, y=19–86%"
+      },
+      {
+        "id": "obj_3",
+        "description": "one medium green potted plant",
+        "box": "靠远墙中右，约x=52–68%, y=48–81%"
+      }
+    ],
+    "note": "百分比仅示意；图片实际目标位置以导入画布后人工目测定位为准，不保证自动坐标适配。"
+  }
+]
